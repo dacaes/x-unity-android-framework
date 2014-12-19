@@ -1,4 +1,4 @@
-x-unity-android-framework
+x Unity Android Framework
 =========================
 
-x Unity Android Framework for qwuick starting projects.
+x Unity Android Framework to start projects quickly.
